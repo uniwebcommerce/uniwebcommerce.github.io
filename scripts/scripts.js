@@ -18068,9 +18068,9 @@ module.exports = g;
 
 /***/ }),
 
-/***/ "./src/js/main.js":
+/***/ "./src/js/scripts.js":
 /*!************************!*\
-  !*** ./src/js/main.js ***!
+  !*** ./src/js/scripts.js ***!
   \************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -18104,12 +18104,12 @@ $(document).ready(function () {
 
 /***/ 0:
 /*!***************************************************!*\
-  !*** multi ./src/js/main.js ./src/scss/main.scss ***!
+  !*** multi ./src/js/scripts.js ./src/scss/main.scss ***!
   \***************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\ivanp\Work\knowledgebase.dev\src\js\main.js */"./src/js/main.js");
+__webpack_require__(/*! C:\Users\ivanp\Work\knowledgebase.dev\src\js\scripts.js */"./src/js/scripts.js");
 module.exports = __webpack_require__(/*! C:\Users\ivanp\Work\knowledgebase.dev\src\scss\main.scss */"./src/scss/main.scss");
 
 
