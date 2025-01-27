@@ -10951,7 +10951,8 @@ a.text-dark:focus {
 }
 
 .jumbotron .container p.lead {
-  color: #eee;
+  /*color: #eee;*/
+  color: black;
   font-size: 18px;
 }
 
