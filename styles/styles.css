@@ -10938,7 +10938,7 @@ a.text-dark:focus {
 }
 
 .jumbotron .container {
-  max-width: 50rem;
+  max-width: 75%;
   z-index: 3;
   position: relative;
   margin-top: 5rem;
@@ -10953,12 +10953,12 @@ a.text-dark:focus {
 .jumbotron .container p.lead {
   /*color: #eee;*/
   color: black;
-  font-size: 18px;
+  font-size: 25px;
 }
 
 .jumbotron .jumbotron-heading {
-  font-weight: 400;
-  font-size: 50px;
+  font-weight: 600;
+  font-size: 67px;
 }
 
 .jumbotron .search-form {
@@ -11161,7 +11161,7 @@ a.text-dark:focus {
 
 .navbar .navbar-brand {
   color: #222222;
-  margin-left: 30px;
+  margin-left: calc(50% - 50px);
 }
 
 .navbar .navbar-brand small {
@@ -11169,7 +11169,7 @@ a.text-dark:focus {
 }
 
 .navbar .navbar-brand img {
-  max-height: 50px;
+  max-height: 100px;
 }
 
 .navbar .navbar-nav .nav-item a.nav-link:not(.solid-btn) {
