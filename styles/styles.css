@@ -428,6 +428,7 @@ h6,
   color: white;
   border-radius: 10px;
   margin-right: 2rem;
+  height: 40px;
 }
 
 .display-1 {
@@ -4544,6 +4545,8 @@ input[type=button].btn-block {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
+  align-content: center;
+  align-items: center;
 }
 
 .navbar-nav .nav-link {
@@ -11156,7 +11159,7 @@ a.text-dark:focus {
 .navbar {
   z-index: 10;
   margin-bottom: 0;
-  padding-top: 1.5rem;
+  padding-top: 0rem;
 }
 
 .navbar .navbar-brand {
@@ -11174,7 +11177,7 @@ a.text-dark:focus {
 
 .navbar .navbar-nav .nav-item a.nav-link:not(.solid-btn) {
   color: #222222;
-  line-height: 1rem;
+  /*line-height: 1rem;*/
 }
 .solid-btn a {
   color: white!important;
@@ -11236,7 +11239,7 @@ ul.nav.categories-nav li.open ul {
 }
 
 ul.nav .header-link {
-  padding-top: 10px;
+  padding-top: 0px;
 }
 
 .category-box i {
